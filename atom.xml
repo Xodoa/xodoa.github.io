@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Xodoa]]></title>
-  <link href="http://xodoa.com/atom.xml" rel="self"/>
-  <link href="http://xodoa.com/"/>
-  <updated>2013-05-20T17:06:28+02:00</updated>
-  <id>http://xodoa.com/</id>
+  <link href="http://Xodoa.github.io/atom.xml" rel="self"/>
+  <link href="http://Xodoa.github.io/"/>
+  <updated>2013-05-20T17:14:30+02:00</updated>
+  <id>http://Xodoa.github.io/</id>
   <author>
     <name><![CDATA[Xodoa]]></name>
     
